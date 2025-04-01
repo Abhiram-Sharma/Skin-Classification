@@ -71,6 +71,3 @@ This project is licensed under the [MIT License](LICENSE). *(Include your actual
 ## Contact
 
 For further questions or support, please reach out via email at [ab23.ar39@gmail.com](mailto:ab23.ar39@gmail.com).
-```
-
----
